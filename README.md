@@ -1,3 +1,12 @@
+On Linux Mint:
+installed m4
+installed flex
+installed gperf
+installed g++
+
+sudo update-alternatives --install "/usr/bin/java" "java" "/usr/local/src/jdk1.6.0_45/bin/java" 1
+sudo update-alternatives --config java
+
 ## Requirements
 
 * jdk1.6.0_45

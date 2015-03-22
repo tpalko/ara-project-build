@@ -1,2 +1,5 @@
 mdk/**
 .vagrant
+out/**
+AraMDK_0.11/**
+.DS_Store
